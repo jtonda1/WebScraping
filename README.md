@@ -17,10 +17,10 @@ Para la realización de la presente práctica he utilizado las siguientes herram
 - Herramienta Excel para realizar alguna transformación del documento CSV generado por la APV con el Query Editor, como por ejemplo la eliminación de cabeceras y texto.
 - Las librerías requests, pandas, matplotlib y para el tratamiento de fechas datetime.
 
-Dataset Seleccionado: "Contaminación de NO2 en la Plaza de España".
+Dataset Seleccionado: "Contaminación de NO2 en la Pista de Silla de Valencia".
 
-El dataset seleccionado es un conjunto de datos con información procedente de una estación meteorológica situada en la Plaza de España de Valencia. Dicho conjunto de datos presenta para cada día del año la información recogida respecto a diferentes contaminantes de interés entre los que se encuentra en Dióxido de Nitrógeno, agente contaminante producido por los vehículos que circulan por la zona.
+El dataset seleccionado es un conjunto de datos con información procedente de una estación meteorológica situada en la Pista de Silla  de Valencia. Dicho conjunto de datos presenta para cada día del año la información recogida respecto a diferentes contaminantes de interés entre los que se encuentra en Dióxido de Nitrógeno, agente contaminante producido por los vehículos que circulan por la zona.
 
 Resultado:
 
-El resultado final es la creación de dos gráficos con el nivel de contaminación de N02 en la estación de la Plaza de España de Valencia en el año 2018. El resultado es un gráfico por semanas y otro por meses.
+El resultado final es la creación de un Dataset con la información diaria para los años 2019 y 2020 del contaminante Dióxido de  Nitrógeno. 
