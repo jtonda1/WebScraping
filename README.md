@@ -1,6 +1,8 @@
 # WebScraping
 Práctica número 1 asignatura Tipología y Ciclo del Dato
 
+DOI del DATASET.- DOI: 10.5281/zenodo.3748912
+
 Miembros del equipo:
 
 Esta práctica se ha realizado de manera individual por Juan Ramón Tonda Barberá.
